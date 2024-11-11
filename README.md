@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on git, github, python, AI, LLMs, long-context, innovative approaches to in-context learning and context caching. 
 - 📫 How to reach me say my name 3x in bathroom [lights out, obv]
 - 😄 Pronouns: I , you , he/she/it; we, you , they
-- ⚡ Fun fact: related to henry 8.
+- ⚡ Fun fact: related to Emily Dickenson.
 
 <!---
 opulentsquirre1/opulentsquirre1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
